@@ -1,4 +1,7 @@
 # git-practice
+Ok, trynig to do homework now..let's see whether this works?
+
+I made a branch..and then I added this stuff...
 
 Learning to use git...trying to see if this works ###SSS
 
